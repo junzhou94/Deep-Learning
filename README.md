@@ -6,11 +6,11 @@ data_download.ipynb:
 
 We used this notebook file to download data images. Kaggle provided csv sheets which have urls for both train and test data, and we used this notebook file, mostly based on the code on Kaggle's discussion board, to download the data through those urls.
 
-CNN Model.ipynb: 
+CNN.ipynb: 
 
 This notebook file contains a few of our initial model experiments and model results. Currently it has the most recent model structure we used and some intermediate model performance results.
 
-resnet34.ipynb
+Resnet34.ipynb
 
 This notebook file contains training processing of ResNet-34 model and corresponding model results.
 
