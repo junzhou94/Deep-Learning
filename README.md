@@ -10,7 +10,7 @@ CNN Model.ipynb:
 
 this notebook file contains a few of our initial model experiments and model results. Currently it has the most recent model structure we used and some intermediate model performance results.
 
-resnet.ipynb
+resnet34.ipynb
 
 this notebook file contains training processing of ResNet-34 model and model results.
 
